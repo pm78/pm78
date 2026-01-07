@@ -1,6 +1,5 @@
 ```md
 # Hi, I’m Pascal (@pm78) 👋
-
 CRO in **Payments / Fintech** • Builder of **agentic AI** systems • Coach (HEC Paris) • Marathoner
 
 I like turning messy enterprise problems into **shippable products**—especially where **AI + data + customer experience** meet. Outside work, I’m deep into **cognitive performance** (biohacking, neurofeedback, HRV/sleep tracking) and I run a small **vertical farm** at home 🌱
@@ -24,9 +23,3 @@ I like turning messy enterprise problems into **shippable products**—especiall
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/pmauze092006/ (DM works)
-
----
-<!--
-pm78/pm78 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
-```
